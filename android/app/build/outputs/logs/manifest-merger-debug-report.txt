@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.google.android.material:material:1.8.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/522a6d7f0c2357fd8b8736925f528dfa/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/f77b19ae8637611af42a1aee361cc4ba/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/daef47ed26655ed093be95fa4f52cd03/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/c10e1d23b20dcda0a7ca96d3dafef257/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/15916b8f926b372f63f2150aa027f69a/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/596c17fe3657e7706dad92a5a0b75adc/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72a9dda6ab9c3c52b70af78b936974e2/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/12892cfaeb2fbe85b01054638a230b98/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72ccf122b2a51d111b7c8162f76faeaf/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/8c813fdf11c9283359c4b50c5bb82556/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/119862282ae1ffb4f307222d8408a552/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/34e2961c873c79b90c21b5c5487f5f81/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/9a17ddfc7a9be67856eb855a92542a16/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/a2a2e980c10e719280db87fa77d29e58/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/5e806e3df8a40ad295d622bf53525531/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/ad8820d50fbd24f141a83f5d9f58d659/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/2f606bb7f643bb901a9c99d737f31e7a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/302c59cb9d2330417b13caa2e2db3140/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/00cb94dfcd1eb3d1a841d80464c94fe3/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/ea9a44784f029cdfa00320c3d5959906/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/ceb9531e3b6c1c61257b951e1907cc1f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/901f052805d6a1f46474dcf93b8be848/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/b441aff2849b817223188d799c2039b0/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/addeb4a3c8bf9c53a9327e090e93586e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/db0c48017ecd4007cefdbee67b22d2cf/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/7c078d4f9512e052ccf9c02cf0642a50/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/dd64754a4acc0baec1ff3f759bf7b2cd/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/f26f4bdfcf752eed18ea31ddfeb2a7a0/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/5fccf60ed668709ce0468e99f84073f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/2ca47993dc983f8dc28441f55a6b83e8/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/fe4aa4c1829acc62fd67aea1273c7f45/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/946e7b98ab045b8e21578dba92b764f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/87b75161aa7aae714481e0a6ac7df668/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/4d8a685f646ccfae638f1b40dd8330d9/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/5a8d3e59fdb4d15d71a7adda9e3c768f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3d36107bcc5a5852da64e096e6c7f2ef/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/2565fb4e6720ec66ee82fabd926d3e86/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/0edbb6b1a9653dbca93ceab129e8a8eb/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/d0ba0f70e02587346f91759f2d0d56f2/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:6:22-63
+application
+ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:8:5-26:19
+INJECTED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from [com.google.android.material:material:1.8.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/522a6d7f0c2357fd8b8736925f528dfa/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/522a6d7f0c2357fd8b8736925f528dfa/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/f77b19ae8637611af42a1aee361cc4ba/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/f77b19ae8637611af42a1aee361cc4ba/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72ccf122b2a51d111b7c8162f76faeaf/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72ccf122b2a51d111b7c8162f76faeaf/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/db0c48017ecd4007cefdbee67b22d2cf/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/db0c48017ecd4007cefdbee67b22d2cf/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/5fccf60ed668709ce0468e99f84073f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/5fccf60ed668709ce0468e99f84073f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/fe4aa4c1829acc62fd67aea1273c7f45/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/fe4aa4c1829acc62fd67aea1273c7f45/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:12:9-50
+	android:icon
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:14:9-48
+activity#com.virtualhit.app.MainActivity
+ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:15:9-25:20
+	android:screenOrientation
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:18:13-50
+	android:exported
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:17:13-36
+	android:configChanges
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:19:13-87
+	android:theme
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:20:13-63
+	android:name
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml
+INJECTED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.8.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/522a6d7f0c2357fd8b8736925f528dfa/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/522a6d7f0c2357fd8b8736925f528dfa/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/f77b19ae8637611af42a1aee361cc4ba/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/f77b19ae8637611af42a1aee361cc4ba/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/daef47ed26655ed093be95fa4f52cd03/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/daef47ed26655ed093be95fa4f52cd03/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/c10e1d23b20dcda0a7ca96d3dafef257/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/c10e1d23b20dcda0a7ca96d3dafef257/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/15916b8f926b372f63f2150aa027f69a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/15916b8f926b372f63f2150aa027f69a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/596c17fe3657e7706dad92a5a0b75adc/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/596c17fe3657e7706dad92a5a0b75adc/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72a9dda6ab9c3c52b70af78b936974e2/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72a9dda6ab9c3c52b70af78b936974e2/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/12892cfaeb2fbe85b01054638a230b98/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/12892cfaeb2fbe85b01054638a230b98/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72ccf122b2a51d111b7c8162f76faeaf/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72ccf122b2a51d111b7c8162f76faeaf/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/8c813fdf11c9283359c4b50c5bb82556/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/8c813fdf11c9283359c4b50c5bb82556/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/119862282ae1ffb4f307222d8408a552/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/119862282ae1ffb4f307222d8408a552/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/34e2961c873c79b90c21b5c5487f5f81/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/34e2961c873c79b90c21b5c5487f5f81/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/9a17ddfc7a9be67856eb855a92542a16/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/9a17ddfc7a9be67856eb855a92542a16/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/a2a2e980c10e719280db87fa77d29e58/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/a2a2e980c10e719280db87fa77d29e58/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/5e806e3df8a40ad295d622bf53525531/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/5e806e3df8a40ad295d622bf53525531/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/ad8820d50fbd24f141a83f5d9f58d659/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/ad8820d50fbd24f141a83f5d9f58d659/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/2f606bb7f643bb901a9c99d737f31e7a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/2f606bb7f643bb901a9c99d737f31e7a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/302c59cb9d2330417b13caa2e2db3140/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/302c59cb9d2330417b13caa2e2db3140/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/00cb94dfcd1eb3d1a841d80464c94fe3/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/00cb94dfcd1eb3d1a841d80464c94fe3/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/ea9a44784f029cdfa00320c3d5959906/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/ea9a44784f029cdfa00320c3d5959906/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/ceb9531e3b6c1c61257b951e1907cc1f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/ceb9531e3b6c1c61257b951e1907cc1f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/901f052805d6a1f46474dcf93b8be848/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/901f052805d6a1f46474dcf93b8be848/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/b441aff2849b817223188d799c2039b0/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/b441aff2849b817223188d799c2039b0/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/addeb4a3c8bf9c53a9327e090e93586e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/addeb4a3c8bf9c53a9327e090e93586e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/db0c48017ecd4007cefdbee67b22d2cf/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/db0c48017ecd4007cefdbee67b22d2cf/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/7c078d4f9512e052ccf9c02cf0642a50/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/7c078d4f9512e052ccf9c02cf0642a50/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/dd64754a4acc0baec1ff3f759bf7b2cd/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/dd64754a4acc0baec1ff3f759bf7b2cd/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/f26f4bdfcf752eed18ea31ddfeb2a7a0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/f26f4bdfcf752eed18ea31ddfeb2a7a0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/5fccf60ed668709ce0468e99f84073f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/5fccf60ed668709ce0468e99f84073f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/2ca47993dc983f8dc28441f55a6b83e8/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/2ca47993dc983f8dc28441f55a6b83e8/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/fe4aa4c1829acc62fd67aea1273c7f45/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/fe4aa4c1829acc62fd67aea1273c7f45/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/946e7b98ab045b8e21578dba92b764f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/946e7b98ab045b8e21578dba92b764f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/87b75161aa7aae714481e0a6ac7df668/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/87b75161aa7aae714481e0a6ac7df668/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/4d8a685f646ccfae638f1b40dd8330d9/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/4d8a685f646ccfae638f1b40dd8330d9/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/5a8d3e59fdb4d15d71a7adda9e3c768f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/5a8d3e59fdb4d15d71a7adda9e3c768f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3d36107bcc5a5852da64e096e6c7f2ef/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3d36107bcc5a5852da64e096e6c7f2ef/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/2565fb4e6720ec66ee82fabd926d3e86/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/2565fb4e6720ec66ee82fabd926d3e86/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/0edbb6b1a9653dbca93ceab129e8a8eb/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/0edbb6b1a9653dbca93ceab129e8a8eb/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/d0ba0f70e02587346f91759f2d0d56f2/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/d0ba0f70e02587346f91759f2d0d56f2/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /var/home/rj_panda/.gemini/antigravity/scratch/VirtualHit/android/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72ccf122b2a51d111b7c8162f76faeaf/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/db0c48017ecd4007cefdbee67b22d2cf/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/db0c48017ecd4007cefdbee67b22d2cf/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/5fccf60ed668709ce0468e99f84073f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/5fccf60ed668709ce0468e99f84073f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72ccf122b2a51d111b7c8162f76faeaf/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72ccf122b2a51d111b7c8162f76faeaf/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72ccf122b2a51d111b7c8162f76faeaf/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72ccf122b2a51d111b7c8162f76faeaf/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72ccf122b2a51d111b7c8162f76faeaf/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72ccf122b2a51d111b7c8162f76faeaf/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/72ccf122b2a51d111b7c8162f76faeaf/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.virtualhit.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.virtualhit.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/3a3856aacc6f3ab95e21fbb5702b9df5/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/db0c48017ecd4007cefdbee67b22d2cf/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/db0c48017ecd4007cefdbee67b22d2cf/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /var/home/rj_panda/.gradle/caches/8.14.5/transforms/db0c48017ecd4007cefdbee67b22d2cf/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VirtualHit</string>
+    <string name="settings">Settings</string>
+    <string name="server_ip">Server Host / IP</string>
+    <string name="server_port">Port</string>
+    <string name="haptic_feedback">Vibration Feedback</string>
+    <string name="socd_mode">SOCD Cleaning Mode</string>
+    <string name="socd_neutral">Neutral (Capcom / SF6)</string>
+    <string name="socd_up_priority">Up Priority (Classic)</string>
+    <string name="socd_last_win">Last Input Priority</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_disconnected">Disconnected (Tap to connect)</string>
+</resources>

@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color bg_dark
+color btn_aux_normal
+color btn_aux_pressed
+color btn_dir_normal
+color btn_dir_pressed
+color btn_jump_normal
+color btn_jump_pressed
+color btn_kick_normal
+color btn_kick_pressed
+color btn_punch_normal
+color btn_punch_pressed
+color panel_dark
+color status_connected
+color status_disconnected
+color text_bright
+color text_muted
+drawable ic_launcher
+drawable transparent_icon
+string app_name
+string connect
+string disconnect
+string haptic_feedback
+string server_ip
+string server_port
+string settings
+string socd_last_win
+string socd_mode
+string socd_neutral
+string socd_up_priority
+string status_connected
+string status_connecting
+string status_disconnected
+style Theme.VirtualHit
+style Theme.VirtualHit.Fullscreen

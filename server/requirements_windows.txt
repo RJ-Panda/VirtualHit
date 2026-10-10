@@ -1,0 +1,4 @@
+# Windows requirements for VirtualHit Server
+# Install ViGEmBus driver FIRST:
+#   https://github.com/ViGEm/ViGEmBus/releases/latest
+vgamepad>=0.1.0

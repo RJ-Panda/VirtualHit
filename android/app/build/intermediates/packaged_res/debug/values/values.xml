@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0F141C</color>
+    <color name="btn_aux_normal">#1C222E</color>
+    <color name="btn_aux_pressed">#FFB300</color>
+    <color name="btn_dir_normal">#232B3A</color>
+    <color name="btn_dir_pressed">#00E5FF</color>
+    <color name="btn_jump_normal">#2A3548</color>
+    <color name="btn_jump_pressed">#00FF88</color>
+    <color name="btn_kick_normal">#1D2A3A</color>
+    <color name="btn_kick_pressed">#00B0FF</color>
+    <color name="btn_punch_normal">#2D2436</color>
+    <color name="btn_punch_pressed">#FF0055</color>
+    <color name="panel_dark">#181E29</color>
+    <color name="status_connected">#00E676</color>
+    <color name="status_disconnected">#FF1744</color>
+    <color name="text_bright">#F0F4F8</color>
+    <color name="text_muted">#64748B</color>
+    <string name="app_name">VirtualHit</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="haptic_feedback">Vibration Feedback</string>
+    <string name="server_ip">Server Host / IP</string>
+    <string name="server_port">Port</string>
+    <string name="settings">Settings</string>
+    <string name="socd_last_win">Last Input Priority</string>
+    <string name="socd_mode">SOCD Cleaning Mode</string>
+    <string name="socd_neutral">Neutral (Capcom / SF6)</string>
+    <string name="socd_up_priority">Up Priority (Classic)</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_disconnected">Disconnected (Tap to connect)</string>
+    <style name="Theme.VirtualHit" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00E5FF</item>
+        <item name="colorSecondary">#FF0055</item>
+        <item name="android:statusBarColor">#0F141C</item>
+        <item name="android:navigationBarColor">#0F141C</item>
+    </style>
+    <style name="Theme.VirtualHit.Fullscreen" parent="Theme.VirtualHit">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

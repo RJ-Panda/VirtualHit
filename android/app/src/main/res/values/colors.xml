@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0F141C</color>
+    <color name="panel_dark">#181E29</color>
+    <color name="btn_dir_normal">#232B3A</color>
+    <color name="btn_dir_pressed">#00E5FF</color>
+    <color name="btn_jump_normal">#2A3548</color>
+    <color name="btn_jump_pressed">#00FF88</color>
+    <color name="btn_punch_normal">#2D2436</color>
+    <color name="btn_punch_pressed">#FF0055</color>
+    <color name="btn_kick_normal">#1D2A3A</color>
+    <color name="btn_kick_pressed">#00B0FF</color>
+    <color name="btn_aux_normal">#1C222E</color>
+    <color name="btn_aux_pressed">#FFB300</color>
+    <color name="text_bright">#F0F4F8</color>
+    <color name="text_muted">#64748B</color>
+    <color name="status_connected">#00E676</color>
+    <color name="status_disconnected">#FF1744</color>
+</resources>
